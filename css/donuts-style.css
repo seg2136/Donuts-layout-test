@@ -1,3 +1,11 @@
+html {
+	background: url(../images/donuts_index.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 .box-1 {
 	border: 2px solid #FFCCCC;
 	margin: 0 30px;
